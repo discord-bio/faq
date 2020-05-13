@@ -1,0 +1,50 @@
+[
+  {
+    "category" : "general",
+    "questions" : [
+      {
+        "question" : "How can I advertise my discord.bio?",
+        "answer" : "You can put your discord.bio in your Discord status.\nIn our Discord server, we do not permit asking for upvotes or spamming/randomly posting your discord.bio."
+      },
+      {
+        "question" : "Can I only have the month and day on my DoB?",
+        "answer" : "No."
+      }
+    ]
+  },
+  {
+    "category" : "slugs",
+    "questions" : [
+      {
+        "question" : "Can I sell my slug?",
+        "answer" : We do not have an official way of transferring your slug to another Discord account.\nIf you decide to do so and get scammed or lose money we will not in any way feel obliged to help you get your money or slug back."
+      },
+      {
+        "question" : "Can I change my slug?",
+        "answer" : "Coming soon."
+      }
+    ]
+  },
+  {
+    "category" : "verification",
+    "questions" : [
+      {
+        "question" : "Can I get verified?",
+        "answer" : "Short answer, you're asking this so no.\ntLong answer, the verified tag is only given to people who have a high chance of impersonation or have a substantial following."
+      }
+    ]
+  },
+  {
+    "category" : "premium",
+    "questions" : [
+      {
+        "question" : "How do I cancel Premium?",
+        "answer" : "Navigate to your settings page and open subscription management."
+      },
+      {
+        "question" : "What does Premium get you?",
+        "answer" : "Our undying thanks!"
+      }
+    ]
+  }
+]
